@@ -886,3 +886,15 @@ a.default-btn:focus {
   line-height: 1.5;
   text-align: center;
 }
+
+@media only screen and (max-width: 1642px) {
+  .main-container {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .main-container {
+    width: 95%;
+  }
+}
